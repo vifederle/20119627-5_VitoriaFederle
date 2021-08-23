@@ -20,7 +20,7 @@
 </body>
 		
 		<footer>
-			Nome: Vitória Federle
-			RA: 20119627-5
-			Curso: Sistemas para Internet
+			<p>Nome: Vitória Federle</p>
+			<p>RA: 20119627-5</p>
+			<p>Curso: Sistemas para Internet</p>
 		</footer>
